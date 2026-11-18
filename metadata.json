@@ -1,0 +1,6 @@
+{
+  "name": "ResolveDesk",
+  "description": "Thoughtfully managed customer support operations, SLA triage queue, and real-time team workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
